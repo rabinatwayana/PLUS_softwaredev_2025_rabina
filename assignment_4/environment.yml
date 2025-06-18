@@ -1,0 +1,8 @@
+name: python_a4_temp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.12
+  - rioxarray
+  - matplotlib
